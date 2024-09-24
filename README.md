@@ -28,3 +28,11 @@ To install all requirements, run the following command:
 ```bash
 $ pip install -r requirements.txt
 ```
+
+### 1.3 Setup the enviroment variables
+
+```bash
+$ cp .env.example .env
+```
+
+Set up you enviroment varibales in the `.env`. Like `OPENAI_API_KEY` value.
