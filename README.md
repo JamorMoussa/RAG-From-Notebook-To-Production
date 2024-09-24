@@ -7,7 +7,7 @@ This is an implimentation of the RAG Model for Question Answering - QA
 
 - Python 3.8 or later.
 
-### Conda
+### Install  MiniConda
 
 1. Download and install MiniConda from [https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh](https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh)
 
