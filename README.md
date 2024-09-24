@@ -3,11 +3,11 @@
 This is an implimentation of the RAG Model for Question Answering - QA
 
 
-## Requirements
+## 01. Requirements
 
 - Python 3.8 or later.
 
-### Install  MiniConda
+### 1.1 Install  MiniConda
 
 1. Download and install MiniConda from [https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh](https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh)
 
