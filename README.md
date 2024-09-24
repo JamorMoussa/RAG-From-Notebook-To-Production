@@ -21,3 +21,10 @@ $ conda create -n rag-app-env python=3.8
 ```bash
 $ conda activate rag-app-env
 ```
+
+### 1.2 Install Requirements:
+
+To install all requirements, run the following command: 
+```bash
+$ pip install -r requirements.txt
+```
